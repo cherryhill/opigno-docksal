@@ -1,6 +1,6 @@
-# Docksal powered Opingo Installation
+# Docksal powered Opigno Installation
 
-This is a sample Opingo pre-configured for use with Docksal.  
+This is a sample Opigno pre-configured for use with Docksal.  
 
 Features:
 
@@ -23,8 +23,8 @@ Follow [Docksal environment setup instructions](https://docs.docksal.io/getting-
 1. Clone this repo into your Projects directory
 
     ```
-    git clone https://github.com/cherryhill/opingo-docksal.git opingo
-    cd opingo
+    git clone https://github.com/cherryhill/opigno-docksal.git opigno
+    cd opigno
     ```
 
 2. Initialize the site
@@ -38,7 +38,7 @@ Follow [Docksal environment setup instructions](https://docs.docksal.io/getting-
 3. Point your browser to
 
     ```
-    http://opingo.docksal
+    http://opigno.docksal
     ```
 
 When the automated install is complete the command line output will display the admin username and password.
