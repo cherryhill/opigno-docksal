@@ -1,6 +1,6 @@
-# Docksal powered Drupal 8 Installation
+# Docksal powered Opingo Installation
 
-This is a sample vanilla Drupal 8 installation pre-configured for use with Docksal.  
+This is a sample Opingo pre-configured for use with Docksal.  
 
 Features:
 
@@ -23,7 +23,7 @@ Follow [Docksal environment setup instructions](https://docs.docksal.io/getting-
 1. Clone this repo into your Projects directory
 
     ```
-    git clone https://github.com/docksal/boilerplate-drupal8.git drupal8
+    git clone https://github.com/cherryhill/opingo-docksal.git drupal8
     cd drupal8
     ```
 
@@ -38,7 +38,7 @@ Follow [Docksal environment setup instructions](https://docs.docksal.io/getting-
 3. Point your browser to
 
     ```
-    http://drupal8.docksal
+    http://opingo.docksal
     ```
 
 When the automated install is complete the command line output will display the admin username and password.
